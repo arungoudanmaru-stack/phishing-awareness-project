@@ -34,17 +34,8 @@ The goal was to showcase practical cybersecurity skills in awareness, reporting,
 | Reporting Rate       | 20%     | 60%    | ↑200%       |
 
 📈 *Conclusion: Training reduced risky clicks and boosted reporting awareness significantly.*  
-
----
-
-## 📑 Deliverables  
-- 📄 [Executive Summary Report](Executive_Summary.pdf)  
-- 🎞️ [Training Slides](Slides.pdf)  
-- 📝 [Quiz Questions](Quiz_Questions.md)  
-- ✉️ [Phishing Email Template](Phishing_Email_Template.txt)  
-- ✅ [Security Awareness Checklist](Training_Checklist.md)  
-
----
+[Phishing_Awareness_Project_Summary.pdf](https://github.com/user-attachments/files/22381280/Phishing_Awareness_Project_Summary.pdf)
+[Phishing Awareness Training.pptx](https://github.com/user-attachments/files/22381252/Phishing.Awareness.Training.pptx)
 
 ## 🚀 Key Learnings  
 - **Phishing is the #1 cyber threat** — awareness training is essential.  
